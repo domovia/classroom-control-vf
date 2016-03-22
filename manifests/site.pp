@@ -52,4 +52,4 @@ file {'/etc/motd':
   mode  => '0664',
   content => 'dom from bangalore',
 }
-}
+
